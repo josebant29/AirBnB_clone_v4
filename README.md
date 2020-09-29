@@ -157,6 +157,6 @@ No known bugs at this time.
 Joseban Trujillo - [Github](https://github.com/josebant29) / [Twitter](https://twitter.com/josebant29)  
 
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
